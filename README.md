@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a Computer Science PhD student at University of Pennsylvania, working on Deep Learning and Computational Neuroscience problems.
+Know more about me at my [personal website](https://vinam.dev/)!
+
 <!--
 **vinamarora8/vinamarora8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
